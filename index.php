@@ -29,6 +29,7 @@
         <!-- Jumbotron Header -->
         <header class="jumbotron hero-spacer">
             <h1>Bienvenido a BaratilloPillo</h1>
+            <hj>Juank</hj>
             <p>Este es un sitio en donde puedes comprar y vender cualquier objeto, pero es necesario tener una cuenta. Si ya estas registrado inicia sesion sino crea tu cuenta aqui</p>
             <p><a class="btn btn-primary btn-large" href="registrar.php">Registrarse</a>
             </p>
